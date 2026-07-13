@@ -1,1 +1,2 @@
 pip install PySide6 psutil requests (pipler)
+api key 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
